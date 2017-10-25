@@ -1,55 +1,55 @@
 [{
-      image:"/pages/scoll/a.jpg",
-      name: "Sprite",
-      last: "Hello！",
-      a:"bye~"
+      "image":"/pages/scoll/a.jpg",
+      "name": "Sprite",
+      "last": "Hello！",
+      "a":"bye~"
     }, {
-        image: "/pages/scoll/a.jpg",
-        name: "雪碧",
-      last: "Hello！",
-      a: "bye~"
+         "image": "/pages/scoll/a.jpg",
+        "name": "雪碧",
+      "last": "Hello！",
+      "a": "bye~"
     }, {
-       image:"/pages/scoll/b.jpg",
-        name: "Supertofu bag",
-        last: "￥199",
-        a: "~"
+        "image":"/pages/scoll/b.jpg",
+        "name": "Supertofu bag",
+        "last": "￥199",
+        "a": "~"
       
     }, {
-        image: "/pages/scoll/b.jpg",
-        name: "Supertofu bag",
-        last: "￥199",
-        a: "~"
+         "image": "/pages/scoll/b.jpg",
+        "name": "Supertofu bag",
+        "last": "￥199",
+        "a": "~"
     }, {
-        image: "/pages/scoll/d.jpg",
-        name: "Supertofu 17AW jacket",
-        last: "￥299",
-        a: "~"
+         "image": "/pages/scoll/d.jpg",
+        "name": "Supertofu 17AW jacket",
+        "last": "￥299",
+        "a": "~"
     }, {
-        image: "/pages/scoll/d.jpg",
-        name: "Supertofu 17AW jacket",
-        last: "￥299",
-        a: "~"
+         "image": "/pages/scoll/d.jpg",
+        "name": "Supertofu 17AW jacket",
+        "last": "￥299",
+        "a": "~"
     }, 
     {
-      image: "/pages/scoll/a.jpg",
-      name: "Supertofu",
-      last: "Hello！",
-      a: "bye~"
+       "image": "/pages/scoll/a.jpg",
+      "name": "Supertofu",
+      "last": "Hello！",
+      "a": "bye~"
     },
     {
-      image: "/pages/scoll/b.jpg",
-      name: "Supertofu",
-      last: "Hello！",
-      a: "bye~"
+       "image": "/pages/scoll/b.jpg",
+      "name": "Supertofu",
+      "last": "Hello！",
+      "a": "bye~"
     },
     {
-      image: "/pages/scoll/d.jpg",
-      name: "Supertofu",
-      last: "Hello！",
-      a: "bye~"
+       "image": "/pages/scoll/d.jpg",
+      "name": "Supertofu",
+      "last": "Hello！",
+      "a": "bye~"
     },{
-      image: "/pages/scoll/b.jpg",
-      name: "H",
-      last: "Hello！",
-      a: "bye~"
+       "image": "/pages/scoll/b.jpg",
+      "name": "H",
+      "last": "Hello！",
+      "a": "bye~"
     }]
